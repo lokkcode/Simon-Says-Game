@@ -21,5 +21,5 @@ The objective is to memorize and repeat the correct sequence of colors.
 ---
 
 ## 📸 Screenshots
+<img width="919" height="922" alt="Screenshot 2025-08-06 145500" src="https://github.com/user-attachments/assets/0a5a0fd9-bff0-4847-afb2-bcc8eb0c92c0" />
 
-<img width="919" height="922" alt="Screenshot 2025-08-06 145500" src="https://github.com/user-attachments/assets/8c189e17-7e62-46be-b05b-0cd0de1c0f94" />
